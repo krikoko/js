@@ -1,6 +1,5 @@
 $(function(){
-    $("#btn").click(function(){ 
-        $(this).css('background-color', 'red');
-        alert('Мир jQuery');
+    $("#btn").click(function(){         
+        alert('Типа збс');
     });
 });
